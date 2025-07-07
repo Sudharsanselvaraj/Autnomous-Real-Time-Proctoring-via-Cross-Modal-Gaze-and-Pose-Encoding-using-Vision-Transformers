@@ -1,4 +1,4 @@
-# 🎯 AI-Based Real-Time Autonomous Proctoring System
+# 🎯Autnomous Real-Time Proctoring via Cross Modal Gaze and Pose Encoding using Vision Transformers
 
 A robust and intelligent proctoring solution for **online examination monitoring**, combining real-time **gaze estimation**, **multi-person detection**, and **object recognition** using cutting-edge computer vision and deep learning techniques.
 
