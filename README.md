@@ -60,23 +60,4 @@ Ensures only one candidate is present. If no face is detected or face is hidden 
 | Math/Utils       | `NumPy`, `imutils` |
 | Real-Time Input  | `Webcam Integration (cv2.VideoCapture)` |
 
----
 
-## 📁 Project Structure
-
-```bash
-autonomous-proctoring/
-├── images/                        # Screenshots used in README
-│   ├── 1751508200143.jpeg         # Gaze Center
-│   ├── 1751508230506.jpeg         # Gaze Right
-│   ├── 1751508244423.jpeg         # Gaze Left
-│   ├── 1751508291921.jpeg         # Gaze Up
-│   ├── 1751508306275.jpeg         # Phone Detected
-│   ├── 1751508321735.jpeg         # Eyes Closed
-│   └── 1751508336225.jpeg         # Face Not Detected
-├── gaze_tracking.py               # Gaze direction logic
-├── alert_system.py                # Alert conditions and logic
-├── object_detection.py            # YOLOv8 implementation
-├── main.py                        # Real-time proctoring pipeline
-├── requirements.txt               # Python dependencies
-└── README.md                      # Documentation
